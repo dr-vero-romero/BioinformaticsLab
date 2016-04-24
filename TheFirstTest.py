@@ -1,2 +1,1 @@
 print('More')
-print('More')
